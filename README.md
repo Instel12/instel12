@@ -1,3 +1,3 @@
 ![banner](banner.png)
-*ABOUT
+#ABOUT
 just read it under my username -_-
