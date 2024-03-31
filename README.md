@@ -1,3 +1,3 @@
-***<img src="banner.png"=s>***
-
-
+![banner](banner.png)
+*ABOUT
+just read it under my username -_-
