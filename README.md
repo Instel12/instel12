@@ -1,1 +1,1 @@
-![banner]([INSTEL (2).png])
+![banner](INSTEL (2).png)
