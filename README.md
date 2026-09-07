@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Instel12/instel12/refs/heads/main/Banner.png">
   <h1>Hey, gng</h1>
   So, i like C#, JS and those things.
   <br><br>
